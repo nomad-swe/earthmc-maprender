@@ -10,7 +10,6 @@
   "dependencies": {
     "@napi-rs/canvas": "^0.1.53",
     "polygon-clipping": "^0.15.7",
-    "prettier": "^3.8.3",
     "sharp": "^0.34.5"
   }
 }
