@@ -1,0 +1,16 @@
+{
+  "name": "earthmc-maprender",
+  "version": "1.0.0",
+  "author": "nomad-swe",
+  "private": false,
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@napi-rs/canvas": "^0.1.53",
+    "polygon-clipping": "^0.15.7",
+    "prettier": "^3.8.3",
+    "sharp": "^0.34.5"
+  }
+}
